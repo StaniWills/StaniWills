@@ -13,10 +13,8 @@
 ### **🗂 🗄  Summary**
 
 <div align="left">  
-Initial front-end developer recently graduated, experience supporting and creating web pages. Looking for new opportunities<br/>
-and challenges, to create more accurate and efficient code or to improve existing products and solve critical infrastructure<br/>
-issues that will expand my skill set.<br/>
-Most of all, I want to create and develop an online service that lets freelancers and everyone else know which coffee shops are available ))<br/>
+Initial front-end developer recently graduated, experience supporting and creating web pages. Looking for new opportunities and challenges, to create more accurate and efficient code or to improve existing products and solve critical infrastructure issues that will expand my skill set.<br/>
+Most of all, I want to create and develop an online service that lets freelancers and everyone else know which coffee shops are available ⚡ ))<br/>
 </div>
 
 ### **💻 🔭  Hard Skills**
@@ -25,11 +23,11 @@ Most of all, I want to create and develop an online service that lets freelancer
 <a href="https://www.codewars.com/users/StaniWills" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/staniwills/badges/small" alt="codewars"/></a></div>
 <div align="left"> -->
 
-● Frontend-Basic : HTML/HTML5 * CSS/SCSS * Javascript * Responsive Design * Bootstrap * Material UI ... <br/>
+● Frontend-Basic : HTML/HTML5 * CSS/SCSS * Javascript * Responsive Design * Bootstrap * Typescript * Node.js ... <br/>
 ● Frontend-Prof : React * Redux * Rest API * GraphQL * Gulp * Webpack ...<br/>
-● Database : MySQL * MongoDB * PostgreSQL * Redis ... <br/>
+● Database : MySQL * MongoDB * PostgreSQL ... <br/>
 ● PM Tools : Git * Github * Linux * Trello * VS Code * IntelliJ ... <br/>
-● Others : Figma * Adobe XD * Adobe Illustrator * Webflow ...<br/>
+● Others : Figma * Adobe XD * Photoshop * Adobe Illustrator * Webflow ...<br/>
 👉 📖... learning continues<br/><br/>
 <p><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 &nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -42,7 +40,7 @@ Most of all, I want to create and develop an online service that lets freelancer
 &nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 &nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 &nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-&nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+&nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
 <div align="left">
 
