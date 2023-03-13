@@ -7,7 +7,7 @@
 
 **E-mail:** staniwills.info@gmail.com  <br/>
 **Telegram:** [StaniWills](https://t.me/StaniWills) <br/>
-**GuHub:** [StaniWills](https://github.com/StaniWills) <br/>
+**GitHub:** [StaniWills](https://github.com/StaniWills) <br/>
 **Linkedin:** [Stani Wilhelm](https://www.linkedin.com/in/stani-wilhelm-02aba0191/)</div>
 
 ### **🗂 🗄  Summary**
@@ -70,7 +70,6 @@ Most of all, I want to create and develop an online service that lets freelancer
 
 ### **📚 🎓 Education/ Courses**
 
-****<br/>
 - Frontend Web Developer Course on the [Tel-Ran](<https://tel-ran.de>)
 - Web Developer Course (HTML, CSS, BEM, SASS) on the [Udemy](https://www.udemy.com/course/javascript_full/learn/lecture/14328446)
 - JavaScript + React Course on the [Udemy](https://www.udemy.com/course/javascript_full/)
