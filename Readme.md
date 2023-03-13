@@ -51,8 +51,8 @@ Most of all, I want to create and develop an online service that lets freelancer
 
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=StaniWills&show_icons=true&locale=en&layout=compact" width="270"
-        height="150" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=StaniWills&show_icons=true&locale=en&layout=compact" width="260"
+        height="160" alt=""/>
 <img src="https://github-readme-stats.vercel.app/api?username=StaniWills&show_icons=true&locale=en" width="260" height="150"
         />
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=StaniWills&&layout=compact" width="285" height="150"
