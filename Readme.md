@@ -84,7 +84,7 @@ Most of all, I want to create and develop an online service that lets freelancer
 - I like to work in a team.
 - I am easy to learn and I do new tasks with pleasure.
 
-### **🌐 Languages**
+### **🌐 🌱Languages**
 
 - English - A2 (I learn English and improve my lever)
 - German - B2
