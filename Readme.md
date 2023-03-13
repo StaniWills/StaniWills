@@ -22,7 +22,7 @@ Most of all, I want to create and develop an online service that lets freelancer
 ### **💻 🔭  Hard Skills**
 
 <!-- <div align="left">
-<a href="https://www.codewars.com/users/St-ton" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/staniwills/badges/small" alt="codewars"/></a></div>
+<a href="https://www.codewars.com/users/StaniWills" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/staniwills/badges/small" alt="codewars"/></a></div>
 <div align="left"> -->
 
 ● Frontend-Basic : HTML/HTML5 * CSS/SCSS * Javascript * Responsive Design * Bootstrap * Material UI ... <br/>
@@ -50,10 +50,10 @@ Most of all, I want to create and develop an online service that lets freelancer
 </div>
 
 </div>
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=StaniWills&show_icons=true&locale=en&layout=compact" width="240"
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=StaniWills&show_icons=true&locale=en&layout=compact" width="270"
         height="150" alt=""/>
-<img src="https://github-readme-stats.vercel.app/api?username=StaniWills&show_icons=true&locale=en" width="270" height="150"
+<img src="https://github-readme-stats.vercel.app/api?username=StaniWills&show_icons=true&locale=en" width="260" height="150"
         />
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=StaniWills&&layout=compact" width="285" height="150"
       alt="" /> -->
