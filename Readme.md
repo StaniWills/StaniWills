@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=StaniWills&label=Profile%20views&color=blueviolet&style=flat" alt="StaniWills" /> </p>
+
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello! I'm Stani Wills 🤝</h2> 
 <h3 align="center">Frontend Web Developer</h3>
 
@@ -82,7 +84,7 @@ Most of all, I want to create and develop an online service that lets freelancer
 - I like to work in a team.
 - I am easy to learn and I do new tasks with pleasure.
 
-### **🌐 🌱Languages**
+### **🌐 🌱 Languages**
 
 - English - A2 (I learn English and improve my lever)
 - German - B2
