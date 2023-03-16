@@ -9,7 +9,7 @@
 **E-mail:** staniwills.info@gmail.com  <br/>
 **Telegram:** [StaniWills](https://t.me/StaniWills) <br/>
 **GitHub:** [StaniWills](https://github.com/StaniWills) <br/>
-**Linkedin:** [Stani Wilhelm](https://www.linkedin.com/in/stani-wilhelm-02aba0191/)</div>
+**Linkedin:** [Stani Wilhelm](https://www.linkedin.com/in/stani-wills/)</div>
 
 ### **🗂 🗄  Summary**
 
