@@ -1,5 +1,5 @@
 <div align="center">
-<h4><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hello!  Moin!  Bonjour!  नमस्ते!  Buon giorno!  今日は!  Merhaba!  恁好!</h4>
+<h4><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hello!  Moin! 恁好! Bonjour!  नमस्ते!  Buon giorno! 今日は!</h4>
 
 <!-- <h3 align="center">Frontend Web Developer</h3> -->
 
