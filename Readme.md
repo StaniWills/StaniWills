@@ -1,7 +1,11 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello! </h2> 
+<div align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello! 
+
 <!-- <h3 align="center">Frontend Web Developer</h3> -->
+
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=535&lines=I'm+Stani+Wills+🤝+FrontEnd+Web+Developer!)](https://git.io/typing-svg)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=StaniWills&label=Profile%20views&color=blueviolet&style=flat" alt="StaniWills" /> </p>
+</div>
 
 ### **📧 📲  Contact Info**   
 
