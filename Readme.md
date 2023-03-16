@@ -15,7 +15,7 @@
 
 <div align="left">  
 Initial front-end developer recently graduated, experience supporting and creating web pages. Looking for new opportunities and challenges, to create more accurate and efficient code or to improve existing products and solve critical infrastructure issues that will expand my skill set.<br/>
-Most of all, I want to create and develop an online service that lets freelancers and everyone else know which coffee shops are available ⚡ ))<br/>
+Most of all, I want to create and develop an online service that lets freelancers and everyone else know what coffee shops are available around here and where there are open spots ⚡ ))<br/>
 </div>
 
 ### **💻 🔭  Hard Skills**
